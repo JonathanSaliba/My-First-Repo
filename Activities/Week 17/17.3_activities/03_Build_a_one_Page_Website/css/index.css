@@ -1,6 +1,7 @@
 nav {
     height: 50px;
     background-color: lightgray;
+    margin-bottom: 5px;
   }
 
   .inline-block {
@@ -17,14 +18,11 @@ nav {
     background-color: lightgrey;
     width: 29%;
     text-align: center;
+    margin-right: 5px;
   }
 
 .leftLower {
-  height: 1440px;
-  float: left;
-  background-color: lightgrey;
-  width: 29%;
-  text-align: center;
+  margin-top: 35px;
 }
 
 .right {
@@ -33,6 +31,16 @@ nav {
   background-color: lightgrey;
   width: 70%;
   text-align: center;
+}
+
+.TopImage p {
+ text-align: left;
+ padding-left: 15px;
+ padding-top: 15px;
+}
+.headshot2 {
+  float: left;
+  padding: 15px;
 }
 
 .Imagecard {
