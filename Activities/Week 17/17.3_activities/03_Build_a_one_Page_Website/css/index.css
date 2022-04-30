@@ -1,0 +1,55 @@
+nav {
+    height: 50px;
+    background-color: lightgray;
+  }
+
+  .inline-block {
+    display:inline-block;
+    padding: 15px;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+
+  .left {
+    height: 1440px;
+    float: left;
+    background-color: lightgrey;
+    width: 29%;
+    text-align: center;
+  }
+
+.leftLower {
+  height: 1440px;
+  float: left;
+  background-color: lightgrey;
+  width: 29%;
+  text-align: center;
+}
+
+.right {
+  height: 1440px;
+  float: left;
+  background-color: lightgrey;
+  width: 70%;
+  text-align: center;
+}
+
+.Imagecard {
+  display: inline-block;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+
+.image2 {
+  height: 265px;
+  width: 200px;
+}
+
+.image3 {
+  height: 265px;
+  width: 200px;
+}
